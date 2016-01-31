@@ -1,0 +1,31 @@
+import java.util.*;
+
+public class MusicLibrary {
+  
+  private ArrayList<Song> songs;
+  
+  public MusicLibrary() { 
+    /* YOUR CONSTRUCTOR CODE HERE*/
+  }
+  
+  /* 
+   * Add song to songs ArrayList
+   */
+  public void addSong (Song song)
+  {
+  }
+  
+  /*
+   * Retrieve a song by number
+   */
+  public Song getSong (int num)
+  {
+  }
+  
+  /*
+   * Sort song list
+   */
+  public void Sort ()
+  {
+  }
+}
